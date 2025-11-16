@@ -2,3 +2,5 @@ flask
 requests
 serpapi
 urllib3
+google-search-results
+
