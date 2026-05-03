@@ -240,12 +240,3 @@ if __name__ == "__main__":
     app.run(host="0.0.0.0", port=port)
 
 
-
-
-
-
-
-
-web kku ennoda theme kudu, icons or images edukka koodaathu, make futuristic, modern blue+cyan+black and white, dark knight style but not too dark and not too glow,
-
-give full code without miss single nano thing
